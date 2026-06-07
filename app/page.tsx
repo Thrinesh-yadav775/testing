@@ -6,6 +6,8 @@ export default function Home() {
       <h6>this is thrinesh yadavs branch</h6>
       <h4>this is thrineshyadavs new branch</h4>
       <h4>this is thrineshyadavs new branch</h4>
+      <button className="bg-red-500 h-30 w-40">submit</button>
+      <input type="text" placeholder="enter your name"></input>
     </div>
   );
 }
