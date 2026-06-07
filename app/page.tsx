@@ -5,6 +5,8 @@ export default function Home() {
       <h2>this is also new dashboard</h2>
       <h6>this is thrinesh yadavs branch</h6>
       <h4>this is thrineshyadavs new branch</h4>
+      <h4>this is thrineshyadavs new branch</h4>
+
     </div>
   );
 }
