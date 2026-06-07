@@ -3,6 +3,7 @@ export default function Home() {
     <div>
       <h1>this is dashbaord</h1>
       <h2>this is also new dashboard</h2>
+      <h6>this is thrinesh yadavs branch</h6>
     </div>
   );
 }
